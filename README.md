@@ -2,7 +2,7 @@
 I'm currently working on personal projects. Also, poetry.
 
 Projects to collaborate on in the future: ideas for interactive and educational uses.
-Ask me about: anatomy and physiology; or astronomy and psychology
+<br> Ask me about: anatomy and physiology; or astronomy and psychology
 
 
 <!--
