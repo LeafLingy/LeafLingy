@@ -3,7 +3,7 @@ I'm currently working on personal projects. Also, poetry.
 
 Projects to collaborate on in the future: ideas for interactive and educational uses.
 Ask me about: anatomy and physiology; or astronomy and psychology
-:alien_monster:
+
 
 <!--
 **LeafLingy/LeafLingy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
