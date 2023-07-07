@@ -1,8 +1,6 @@
 ### Hi there! I'm a Leaf in this world. 
 I'm currently working on personal projects. Also, poetry.
 
-Projects to collaborate on in the future: ideas for interactive and educational uses.
-<br> Ask me about: anatomy and physiology; or astronomy and psychology
 
 
 <!--
